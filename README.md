@@ -4,15 +4,16 @@ This repository contains the details of major project created by the students of
 <b>#NOTE</b><br>
 This repository contains the details of students under following faculty mentor only.<br>
 <ul>
-  <li>MS. ARTI SHARMA</li>
-  <li>MR. ANURAG MISHRA</li>
-  <li>MS. ARUSHI GUPTA</li>
-  <li>MS. SHIVANI</li>
-  <li>MR. PARDEEP TYAGI</li>
-  <li>MR. AKASH GOEL</li>
-  <li>MS. AKANKSHA</li>
-  <li>MR. PAWAN KUMAR PAL</li>
+  <li>Dr. Kalpana Sagar</li>
+  <li>Ms. Neha Shukla</li>
+  <li>Ms. Pallavi Sharma</li>
+  <li>Ms. Pooja Sharma</li>
+  <li>Mr. Sreesh Gaur</li>
+  <li>Mr. Vikas Kamra</li>
+  <li>Mr. Balvidya Mitr</li>
+  <li>Mr. Gaurav Rawat</li>
 </ul>
+
   
 <b>#How to access</b><br>
 <ol>
