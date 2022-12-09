@@ -100,30 +100,5 @@ Folders of following project Ids has been created.<br>
 				<td><span style="font-style: normal; font-weight: 400;">PCS23-7</span>&nbsp;</td>
 				<td><ul dir="auto" style="box-sizing: border-box; padding-left: 2em; margin-bottom: 16px; color: rgb(36, 41, 47); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;; text-align: start;"><li style="box-sizing: border-box; margin-top: 0.25em;"><span style="font-style: normal; font-weight: 400;">Mr. Vikas Kamra</span>&nbsp;</li></ul></td>
 			</tr>
-			<tr>
-				<td>14&nbsp;</td>
-				<td><span style="font-style: normal; font-weight: 400;">PCS23-3</span>&nbsp;</td>
-				<td><ul dir="auto" style="box-sizing: border-box; padding-left: 2em; margin-bottom: 16px; color: rgb(36, 41, 47); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;; text-align: start;"><li style="box-sizing: border-box; margin-top: 0.25em;"><span style="color: rgb(49, 48, 48); font-family: BlinkMacSystemFont, -apple-system, &quot;Segoe UI&quot;, Roboto, Oxygen, Ubuntu, Cantarell, &quot;Fira Sans&quot;, &quot;Droid Sans&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-style: normal; font-weight: 400; text-align: center;">Mr. Balvidya Mitr</span>&nbsp;</li></ul></td>
-			</tr>
-			<tr>
-				<td>15&nbsp;</td>
-				<td><span style="font-style: normal; font-weight: 400;">PCS23-21</span>&nbsp;</td>
-				<td><ul dir="auto" style="box-sizing: border-box; padding-left: 2em; margin-bottom: 16px; color: rgb(36, 41, 47); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;; text-align: start;"><li style="box-sizing: border-box; margin-top: 0.25em;"><span style="font-style: normal; font-weight: 400; color: rgb(49, 48, 48); font-family: BlinkMacSystemFont, -apple-system, &quot;Segoe UI&quot;, Roboto, Oxygen, Ubuntu, Cantarell, &quot;Fira Sans&quot;, &quot;Droid Sans&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; text-align: center;">Mr. Balvidya Mitr</span>&nbsp;</li></ul></td>
-			</tr>
-			<tr>
-				<td>16&nbsp;</td>
-				<td><span style="font-style: normal; font-weight: 400;">PCS23-57</span>&nbsp;</td>
-				<td><ul dir="auto" style="box-sizing: border-box; padding-left: 2em; margin-bottom: 16px; color: rgb(36, 41, 47); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;; text-align: start;"><li style="box-sizing: border-box; margin-top: 0.25em;"><span style="color: rgb(49, 48, 48); font-family: BlinkMacSystemFont, -apple-system, &quot;Segoe UI&quot;, Roboto, Oxygen, Ubuntu, Cantarell, &quot;Fira Sans&quot;, &quot;Droid Sans&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-style: normal; font-weight: 400; text-align: center;">Mr. Balvidya Mitr</span><br></li></ul></td>
-			</tr>
-			<tr>
-				<td>17&nbsp;</td>
-				<td><span style="font-style: normal; font-weight: 400;">PCS23-15</span>&nbsp;</td>
-				<td>&nbsp;Mr. Gaurav Rawat</td>
-			</tr>
-			<tr>
-				<td>18&nbsp;</td>
-				<td><span style="font-style: normal; font-weight: 400;">PCS23-40</span>&nbsp;</td>
-				<td>&nbsp;Mr. Gaurav Rawat</td>
-			</tr>
 		</tbody>
 	</table>
